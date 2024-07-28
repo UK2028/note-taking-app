@@ -1,0 +1,6 @@
+export {Header} from './Header'
+export {Footer} from './Footer'
+export {Notes} from './Notes'
+export {NoteCard} from './NoteCard'
+export {Pagination} from './Pagination'
+export {SearchBar} from './SearchBar'
